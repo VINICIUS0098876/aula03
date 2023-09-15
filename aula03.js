@@ -87,3 +87,4 @@ function soma(){
     }
 }
 botaoSoma.addEventListener('click', soma)
+
